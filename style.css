@@ -1,0 +1,26 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  height: 300px;
+}
+#particles-js{
+  background-color:rgb(12 47 82);
+}
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2,h3{
+  text-align: center;
+}
+h2{
+  color: white;
+  padding-top: 25px;
+  border: blue;
+}
+h3{
+color: rgb(0, 255, 98);
+font-weight: bold;
+}
